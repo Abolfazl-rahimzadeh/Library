@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-//#include <unistd.h>
 #include <windows.h>
 
 //functions
@@ -352,17 +351,7 @@ void error()
     	scanf("%d",choice);
     	
 }
-
-/*
-				8
-		37		8
-12		12		8	
-		45		1
-			1
-					1
-		3
-			2
-*/
+// main
 int main()
 {
 		int r=0;
